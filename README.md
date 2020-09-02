@@ -1,16 +1,13 @@
-### Hi there 👋
+# I'm Robson da Silva Rodrigues
 
-<!--
-**robsoncraftsman/robsoncraftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer. I have been working with Java, Java EE and Spring framework for the last 17 years.
 
-Here are some ideas to get you started:
+I'm currently studying JavaScript, TypeScript and its ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check my repositories:
+https://github.com/robsoncraftsman/javascriptMasterclass
+https://github.com/robsoncraftsman/curso-nodejs-mongodb-luiz-tools
+https://github.com/robsoncraftsman/curso-nodejs-nodebr
+https://github.com/robsoncraftsman/curso-typescript-cod3r
+
+LinkedIn: https://www.linkedin.com/in/robsoncraftsman/
