@@ -4,7 +4,7 @@ Hello, I'm a Senior Software Engineer. I have been working with Java, Java EE an
 
 I'm currently studying JavaScript, TypeScript and its ecosystem.
 
-Check my repositories:
+Check out my repositories:
 
 https://github.com/robsoncraftsman/javascriptMasterclass
 
