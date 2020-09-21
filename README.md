@@ -14,6 +14,10 @@ https://github.com/robsoncraftsman/curso-nodejs-nodebr
 
 https://github.com/robsoncraftsman/curso-typescript-cod3r
 
+https://github.com/robsoncraftsman/curso-docker-cod3r
+
+https://github.com/robsoncraftsman/curso-nodejs-manguinho
+
 LinkedIn: 
 
 https://www.linkedin.com/in/robsoncraftsman/
