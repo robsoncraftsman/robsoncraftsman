@@ -18,6 +18,4 @@ https://github.com/robsoncraftsman/curso-docker-cod3r
 
 https://github.com/robsoncraftsman/curso-nodejs-manguinho
 
-LinkedIn: 
-
-https://www.linkedin.com/in/robsoncraftsman/
+https://github.com/robsoncraftsman/curso-java8-alura
