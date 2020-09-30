@@ -1,21 +1,5 @@
 # Robson da Silva Rodrigues
 
-Hello, I'm a Senior Software Engineer. I have been working with Java, Java EE and Spring framework for the last 17 years.
+Olá, sou desenvolvedor de software com experiência em aplicativos desktop, web e mobile. Focando sempre na qualidade, performance e segurança das aplicações.
 
-I'm currently studying JavaScript, TypeScript and its ecosystem.
-
-Check out my repositories:
-
-https://github.com/robsoncraftsman/javascriptMasterclass
-
-https://github.com/robsoncraftsman/curso-nodejs-mongodb-luiz-tools
-
-https://github.com/robsoncraftsman/curso-nodejs-nodebr
-
-https://github.com/robsoncraftsman/curso-typescript-cod3r
-
-https://github.com/robsoncraftsman/curso-docker-cod3r
-
-https://github.com/robsoncraftsman/curso-nodejs-manguinho
-
-https://github.com/robsoncraftsman/curso-java8-alura
+Já trabalhei com diveresas linguagens, mas atualmente estou focando em Java, Javascript, Node e TypeScript.
