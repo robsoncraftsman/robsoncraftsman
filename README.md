@@ -5,3 +5,4 @@ Olá, sou desenvolvedor de software com experiência em aplicativos desktop, web
 Já trabalhei com diveresas linguagens, mas atualmente estou focando em Java, Javascript, Node e TypeScript.
 
 LinkedIn: https://www.linkedin.com/in/robsoncraftsman/
+Curriculum: https://github.com/robsoncraftsman/Documents/tree/master/Curriculum
