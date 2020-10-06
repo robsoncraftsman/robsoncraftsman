@@ -6,4 +6,4 @@ Já trabalhei com diveresas linguagens, mas atualmente estou focando em Java, Ja
 
 LinkedIn: https://www.linkedin.com/in/robsoncraftsman/
 
-Curriculum: https://github.com/robsoncraftsman/Documents/tree/master/Curriculum
+Curriculum: [Curriculum_Robson_S_Rodrigues.pdf](https://github.com/robsoncraftsman/Documents/blob/master/Curriculum/Curriculum_Robson_S_Rodrigues.pdf)
